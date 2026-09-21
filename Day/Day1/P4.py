@@ -1,3 +1,4 @@
+#concept:classs and instance
 class Dog:
     def bark(self):
         print("woof")
